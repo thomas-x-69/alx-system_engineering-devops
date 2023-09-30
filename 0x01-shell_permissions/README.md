@@ -1,1 +1,1 @@
-Shell Basic 2
+0x01. Shell, permissions
